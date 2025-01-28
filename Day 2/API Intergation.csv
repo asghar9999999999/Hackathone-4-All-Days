@@ -1,0 +1,6 @@
+Endpoint,Method,Description,Payload/Response Example,
+,,,,
+/products,GET,Fetch all available products,"{ id: 1, name: ""Car A"", price: 100 }",
+/orders,POST,Create a new order,"{ customer: {...}, items: [...] }",
+/rental-duration,POST,Add rental details for a product,"{ productId: 456, duration: ""7 days"" }",
+/shipment,GET,Track shipment status,"{ orderId: 789, status: ""In Transit""}",
