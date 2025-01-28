@@ -1,0 +1,9 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate product listing page,Open product page > Verify products,Products displayed correctly,Products displayed correctly,Passed,High ,-,No issues found
+TC002,Test API error handling,Disconnect API > Refresh page,Show fallback UI with error message,Error message shown,Passed,High,-,No issuse found
+TC003,Check cart functionality,Add product to cart > Verify cart contents,Cart updates with added product,Cart updates as expected,Passed,High,-,No issues found
+TC004,Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,High,-,Test successful
+TC005,Error Handing,Backend Intergation Refinement,Working In Successfully,Worked,Passed,High,-,No issues found
+TC006 ,API Data Status,API Data Working For Fetch and by PDF Provide,API Status Perfect Work,Successful Working,Passed,High,-,No Issues found
+TC007,Light House Status,Light House Perfect Accessiblity and Best Parctice,Light House Status Perfect Work,Good working But Performance Low,Passed,Medum,-,Gracefull
+TC008,Issues,"Develop Resources, Security, Performance Monitor",No Error And Need Clean ,Best and Successful Work,Passed,High ,-,No issues found
