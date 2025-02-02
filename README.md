@@ -109,7 +109,7 @@ This project was a significant milestone, equipping me with technical skills and
 
 ---
 
-# Day 7 - Live Deployment and Post-Launch Practices (README Summary)
+# Day 7 - Live Deployment and Post-Launch Practices
 
 ### **Objective:**
 
