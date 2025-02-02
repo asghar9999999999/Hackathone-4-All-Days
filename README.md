@@ -1,6 +1,5 @@
 # **Day 1 To Day 6 Summery :**    
 
-
                  
 ## **Day 1: Laying the Foundation for Your Marketplace**
 
