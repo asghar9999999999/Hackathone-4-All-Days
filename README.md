@@ -89,7 +89,7 @@ This phase was crucial for refining the backend, improving user experience, and 
 
 ---
 
-## **Day 6: Developing My First Rent E-commerce Platform: A Learning Experience**
+# **Day 6: Developing My First Rent E-commerce Platform: A Learning Experience**
 
 ### **Overview:**
 Building my first complete e-commerce platform was an invaluable learning experience. It provided hands-on practice in web development and boosted my confidence by solving real-world challenges.
