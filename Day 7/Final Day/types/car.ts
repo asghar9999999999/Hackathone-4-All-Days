@@ -1,6 +1,5 @@
 
 export interface Car {
-    quantity: number
     _id : string
     name: string
     brand: string

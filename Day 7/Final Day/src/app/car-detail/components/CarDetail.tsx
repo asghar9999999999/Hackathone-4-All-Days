@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import { createClient } from "@sanity/client";
 import Image from "next/image";
-import Header  from "./Header";
+import { Header } from "./Header";
 import { Sidebar } from "./Sidebar";
 import { Star } from "lucide-react";
 import { useSearchParams } from "next/navigation";
@@ -223,7 +223,7 @@ const CarDetail = () => {
                         </div>
                     </div>
 
-                    {/* Cart Page
+                    {/* Cart Page */}
                     <div className="p-4 mt-8">
                         <h2 className="text-lg font-bold mb-4">Your Cart</h2>
                         {cart.map((item) => (
@@ -252,7 +252,7 @@ const CarDetail = () => {
                                 </div>
                             </div>
                         ))}
-                    </div> */}
+                    </div>
                 </div>
             </div>
                 <div className="flex-1">
