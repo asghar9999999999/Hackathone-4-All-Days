@@ -111,6 +111,8 @@ This project was a significant milestone, equipping me with technical skills and
 
 # Day 7 - Live Deployment and Post-Launch Practices
 
+### ** Sir day 7 ki repo ko check karle sir us me jo video hai sir us lazmi dehk le sr plz:**
+
 ### **Objective:**
 
 Day 7 focused on deploying the marketplace to a live production environment while implementing industry-standard best practices for security, scalability, and operational readiness. Post-launch strategies such as branding, marketing, and investor partnerships were also covered.
