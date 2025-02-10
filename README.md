@@ -1,3 +1,5 @@
+### ** Sir day 7 ki repo ko check karle sir us me jo MP4 video hai sir us ko oper kare or View Rew per click karke download karke sir Lazmi dehk le Sir Plz. Ya phir sir is link se open karke video watch karle Plz Sir. Thank You Sir**
+### **https://drive.google.com/file/d/10eaOFyao6TcT4XpPmuZsGCv5a3zdA5qf/view?usp=drive_link**
 # **Day 1 To Day 7 Summery :**    
 
                 
@@ -111,7 +113,8 @@ This project was a significant milestone, equipping me with technical skills and
 
 # Day 7 - Live Deployment and Post-Launch Practices
 
-### ** Sir day 7 ki repo ko check karle sir us me jo video hai sir us lazmi dehk le sr plz:**
+### ** Sir day 7 ki repo ko check karle sir us me jo MP4 video hai sir us ko oper kare or View Rew per click karke download karke sir Lazmi dehk le Sir Plz. Ya phir sir is link se open karke video watch karle Plz Sir. Thank You Sir**
+### **https://drive.google.com/file/d/10eaOFyao6TcT4XpPmuZsGCv5a3zdA5qf/view?usp=drive_link**
 
 ### **Objective:**
 
